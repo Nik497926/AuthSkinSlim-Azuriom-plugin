@@ -1,0 +1,10 @@
+{
+    "name": "azuriom/auth-skin-slim",
+    "type": "azuriom-plugin",
+    "description": "Adds skin.slim to Auth API JSON responses.",
+    "autoload": {
+        "psr-4": {
+            "Azuriom\\Plugin\\AuthSkinSlim\\": "src/"
+        }
+    }
+}

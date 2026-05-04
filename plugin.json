@@ -1,0 +1,11 @@
+{
+    "id": "auth-skin-slim",
+    "name": "Auth API skin (slim)",
+    "description": "Adds skin.slim to POST /api/auth/authenticate JSON. Stores slim flag in auth_skin_slim (invalidated when skin file changes). No core changes.",
+    "version": "1.2.0",
+    "authors": ["S.One"],
+    "providers": [
+        "\\Azuriom\\Plugin\\AuthSkinSlim\\Providers\\AuthSkinSlimServiceProvider"
+    ],
+    "azuriom_api": "1.0.0"
+}
