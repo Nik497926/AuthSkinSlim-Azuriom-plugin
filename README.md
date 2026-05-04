@@ -1,0 +1,1 @@
+# AuthSkinSlim-Azuriom-plugin
